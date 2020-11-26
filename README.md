@@ -4,3 +4,8 @@ When the companies visit the college to recruit students, the idea is to help th
 And with the student's point of view, they need to know about the company schedule and the role for which they are hiring.
 All these tasks will be handled by placement & training officer of the respective college and there may be communication gap or delay.
 Thus this proposed system forms a direct bridge between the students and company to communicate effectively.
+
+Tools-
+IDE : Netbeans
+DATABASE : MySQL
+LANGUAGE : JAVA
